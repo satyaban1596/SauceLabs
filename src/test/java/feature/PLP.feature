@@ -14,7 +14,7 @@ When user input "standard_user" and "secret_sauce"
 And click on login button
 And user Add multiple product to cartbox
 Then Validate cartbox showing the multiple product addition
-
+Then add the change
 
 
 
